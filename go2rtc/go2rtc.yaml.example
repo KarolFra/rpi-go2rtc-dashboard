@@ -1,0 +1,12 @@
+streams:
+  KAMERA_GARAZ:
+    url: "rtsp://USER:PASS@<ip>:554/Streaming/Channels/102"
+    on_demand: true # reduce SIM card data usage
+
+  KAMERA_TYL:
+    url: "rtsp://USER:PASS@<ip>:554/Streaming/Channels/102"
+    on_demand: true
+
+  KAMERA_ZACHOD:
+    url: "rtsp://USER:PASS@<ip>:554/Streaming/Channels/102"
+    on_demand: true

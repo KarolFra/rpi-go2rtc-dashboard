@@ -1,0 +1,10 @@
+# Runtime output
+web/usage.json
+
+# Local/private configs
+go2rtc/go2rtc.yaml
+.env
+
+# OS/editor
+.DS_Store
+Thumbs.db

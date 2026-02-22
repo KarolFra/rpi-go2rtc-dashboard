@@ -1,0 +1,6 @@
+[Unit]
+Description=Write monthly usage JSON for dashboard
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/usage_monthly.sh tailscale0
