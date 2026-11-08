@@ -4,14 +4,6 @@ web/usage.json
 # Local/private configs
 go2rtc/go2rtc.yaml
 .env
-__pycache__/
-*.py[cod]
-.venv/
-data/
-*.sqlite3
-*.sqlite3-shm
-*.sqlite3-wal
-*.worker.lock
 
 # OS/editor
 .DS_Store
